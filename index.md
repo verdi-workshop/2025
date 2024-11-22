@@ -55,6 +55,7 @@ The JU receives support from the European Union’s Horizon 2020 research and in
 VERDI is partially supported by the Route 25 project (ref. TRB/2022/00061 - C645463824-00000063) funded by NextGenerationEU, within the Recovery and Resilience Plan (RRP).
 
 <!-- VERDI is partially supported by the Spanish Ministry of Science, Innovation, and Universities (grant PID2020-120271RB-I00 funded by MCIN/AEI/10.13039/501100011033). -->
+
 </small>
 
 <!-- {:class="thanks"}
