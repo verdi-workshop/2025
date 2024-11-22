@@ -54,7 +54,7 @@ TBA
 
 # Organisers and Program Chairs
 
- - [David Pereira](https://cister-labs.pt/people/david_pereira/), VORTEX colab, Porto, Portugal
+ - [David Pereira](https://cister-labs.pt/people/david_pereira/), VORTEX CoLab, Porto, Portugal
  - [José Proença](https://jose.proenca.org/), University of Porto, Porto, Portugal
  - [Behrooz Sangchoolie](https://www.ri.se/en/person/behrooz-sangchoolie), RISE Research Institutes of Sweden, Borås, Sweden
 
