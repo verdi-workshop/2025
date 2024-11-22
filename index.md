@@ -34,9 +34,9 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 
 ## Support
 
-<!-- {:style="text-align:center;"}
+{:style="text-align:center;"}
 [![logo](assets/img/AgrarsenseColor-logo-nobackground.png "logo")](https://www.agrarsense.eu/){:target="blank"}
-[![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}
+<!-- [![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}
 [![logo](assets/img/CHIPS logo_RGB_full colour.png "logoSmall")](https://www.chips-ju.europa.eu/){:target="blank"} -->
 [![logo](assets/img/logo-RISE.png "logo")](https://www.ri.se/en/){:target="blank"}
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
