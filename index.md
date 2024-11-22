@@ -48,15 +48,13 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 {:class="thanks"}
 <small>
 This event is partly supported by the AGRARSENSE project that has received funding from the Chips Joint Undertaking (JU) under Grant Agreement No. 101095835 (project AGRARSENSE).
+VERDI is partially supported by the Route 25 project (ref. TRB/2022/00061 - C645463824-00000063) funded by NextGenerationEU, within the Recovery and Resilience Plan (RRP).
+</small>
 
 <!-- 
 The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Sweden, Spain, France, Ireland, Austria, the Netherlands, Italy, Poland, Germany, Norway, Finland, Latvia, Czechia, Türkiye. -->
-
-VERDI is partially supported by the Route 25 project (ref. TRB/2022/00061 - C645463824-00000063) funded by NextGenerationEU, within the Recovery and Resilience Plan (RRP).
-
-<!-- VERDI is partially supported by the Spanish Ministry of Science, Innovation, and Universities (grant PID2020-120271RB-I00 funded by MCIN/AEI/10.13039/501100011033). -->
-
-</small>
+<!-- VERDI is partially supported by the Spanish Ministry of Science, Innovation, and Universities (grant PID2020-120271RB-I00 funded by MCIN/AEI/10.13039/501100011033).
+-->
 
 <!-- {:class="thanks"}
 <small>Disclaimer: The Chips JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.</small>
