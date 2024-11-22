@@ -25,24 +25,26 @@ A key property that CPS are expected to exhibit is that of dependability, that i
 
 The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. 
 
-The first edition of the workshop was supported by the ECSEL Joint Undertaking [VALU3S project](https://valu3s.eu/), which ended in July 2023. This edition of the workshop is supported by the EU-funded [AGRARSENSE project](https://www.agrarsense.eu/), a key initiative under the Chips Joint Undertaking, takes agricultural and forestry related productivity to the next level. The consortium will develop state-of-the-art technologies in electronic components and systems for future needs, building European resilience in critical sectors and strongly contribute to sustainability targets and climate change mitigation. In this collaborative effort, small, mid-sized, and large enterprises alongside Research and Technology Organizations (RTOs) will focus on developing innovative solutions in sensors, software, connectivity, and data management, with a keen emphasis on safety, security, and reliability, as well as advancing autonomous movement and robotics platforms.
+The first edition of the workshop was supported by the ECSEL Joint Undertaking [VALU3S project](https://valu3s.eu/), which ended in July 2023. The second and this edition of the workshop was and will be supported by the EU-funded [AGRARSENSE project](https://www.agrarsense.eu/), a key initiative under the Chips Joint Undertaking, takes agricultural and forestry related productivity to the next level. The consortium will develop state-of-the-art technologies in electronic components and systems for future needs, building European resilience in critical sectors and strongly contribute to sustainability targets and climate change mitigation. In this collaborative effort, small, mid-sized, and large enterprises alongside Research and Technology Organizations (RTOs) will focus on developing innovative solutions in sensors, software, connectivity, and data management, with a keen emphasis on safety, security, and reliability, as well as advancing autonomous movement and robotics platforms.
 
 
 # Topics
 
 The workshop covers all aspects related to the dependability evaluation (with special focus on __safety__ and __security__) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing. Topics include, but are not limited to:
 
- - Safety/security risk assessment and assurance
- - Analysis of threats and vulnerabilities
- - In-the-loop and model-based analysis and assessment
- - Architecture-driven assurance of safety and security
- - Interplay between safety and security
- - Tools for validation and verification
- - Dependability analysis using simulation and experimental measurement
- - Methods for qualification, assurance, and certification
- - Test space exploration and test space pruning
- - Distributed and real-time monitoring and control
- - Analysis of probabilistic, real-time, or hybrid systems
+ - Safety/security risk assessment and assurance 
+ - Analysis of threats and vulnerabilities 
+ - In-the-loop and model-based analysis and assessment 
+ - Architecture-driven assurance of safety and security 
+ - Interplay between safety and security 
+ - AI for safety/security and safety/security for AI 
+ - Tools for validation and verification 
+ - Verification and validation of LLM-enhanced systems 
+ - Dependability analysis using simulation and experimental measurement 
+ - Methods for qualification, assurance, and certification 
+ - Test space exploration and test space pruning 
+ - Distributed and real-time monitoring and control 
+ - Analysis of probabilistic, real-time, or hybrid systems 
 
 
 # Submissions
