@@ -40,6 +40,7 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 [![logo](assets/img/CHIPS logo_RGB_full colour.png "logoSmall")](https://www.chips-ju.europa.eu/){:target="blank"} -->
 [![logo](assets/img/logo-RISE.png "logo")](https://www.ri.se/en/){:target="blank"}
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
+[![logo](assets/img/logo-vortex.png "logo")](https://www.vortex-colab.com/){:target="blank"}
 [![logo](assets/img/logo-route25.png "logo")](https://www.it.pt/Projects/Index/4824){:target="blank"}
 [![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
 <!-- [![logo](assets/img/logo-MICIN.jpg "logoSmall")](http://www.fct.mctes.pt/){:target="blank"} -->
