@@ -7,9 +7,9 @@ title: "Call for Papers"
 
 # Important dates (extended)
 
-  - Paper submission: tba
-  - Notification: tba
-  - Final version: tba
+  - Paper submission: March 21 (AoE)
+  - Notification: April 23 (AoE)
+  - Final version: April 28 (AoE)
 
 
 <!-- # Invited Speakers
