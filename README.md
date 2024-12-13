@@ -1,6 +1,6 @@
-# VERDI 2024
+# VERDI 2025
 
-Website of the VERDI 2024 workshop.
+Website of the VERDI 2025 workshop.
 
 The documentation for the theme is at
 https://github.com/DigitaleGesellschaft/jekyll-theme-conference
