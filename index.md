@@ -6,9 +6,9 @@ title: VERDI 2025
 
 ## Important dates
 
-  - Paper submission: tba
-  - Notification: tba
-  - Final version: tba
+  - Paper submission: March 21 (AoE)
+  - Notification: April 23 (AoE)
+  - Final version: April 28 (AoE)
 
 
 <!-- ## Invited speakers
