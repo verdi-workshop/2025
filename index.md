@@ -66,3 +66,6 @@ Photo by [Grafi Jeremiah](https://unsplash.com/@_jeremiah85_) on [Unsplash](http
 
 <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
+
+Edit the content of this page [here](https://github.com/verdi-workshop/2025/blob/main/index.md).
+{: .editNote}
