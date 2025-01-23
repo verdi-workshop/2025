@@ -6,17 +6,17 @@ title: "Committees"
 # Program Committee (to be finalized)
 
  - [Cyrille Artho](https://www.kth.se/profile/artho/), KTH Royal Institute of Technology, Sweden
- - [Thomas Bauer](), Fraunhofer IESE, Germany
+ - [Thomas Bauer](https://www.linkedin.com/in/thomas--bauer), Fraunhofer IESE, Germany
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](https://www.ubi.pt/Pessoa/matos.pedro), University of Beira Interior, Portugal
  - [Marie Farrell](https://mariefarrell.github.io/), University of Manchester, United Kingdom
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
- - [Nasser Nowdehi](), Volvo AB, Sweden
+ - [Nasser Nowdehi](https://www.linkedin.com/in/nasser-nowdehi-07215852), Volvo AB, Sweden
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
- - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
+ - [Ahmet Yazici](https://avesis.ogu.edu.tr/ayazici), Eskisehir Osmangazi University, Turkey
 
 <!-- 
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
