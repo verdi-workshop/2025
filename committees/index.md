@@ -7,6 +7,7 @@ title: "Committees"
 
  - [Cyrille Artho](https://www.kth.se/profile/artho/), KTH Royal Institute of Technology, Sweden
  - [Thomas Bauer](), Fraunhofer IESE, Germany
+
 <!-- 
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
@@ -15,11 +16,13 @@ title: "Committees"
 -->
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](https://www.ubi.pt/Pessoa/matos.pedro), University of Beira Interior, Portugal
+
 <!-- 
  - [Marie Farrell](), University of Manchester, United Kingdom
  - [Barbara Gallina](), Mälardalen University, Sweden
 -->
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
+
 <!-- 
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
  - [Jan Tobias Mühlberg](https://muehlber.github.io/),  Université Libre de Bruxelles, Belgium
@@ -27,6 +30,7 @@ title: "Committees"
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Nasser Nowdehi](), Volvo AB, Sweden
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
+
 <!-- 
  - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
  - [Antonio Pecchia](https://ultraviolet.ding.unisannio.it/apecchia/), University of Sannio, Italy
@@ -34,16 +38,19 @@ title: "Committees"
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
 -->
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
+
 <!-- 
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
  - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
 -->
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
+
 <!-- 
  - [Carolyn Talcott](), SRI  International, USA
  - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
 -->
  - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
+
 <!-- 
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 -->
