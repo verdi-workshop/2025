@@ -66,15 +66,15 @@ be prepared in LaTeX, adhering to the ... format and Guidelines. For
 further information please visit ...
  -->
 
-More information on how to submit will be made available soon.
+<!-- More information on how to submit will be made available soon. -->
 
-<!-- Please use the EasyChair link below to submit your paper, and contact us if there is any problem:
+Please use the EasyChair link below to submit your paper, and contact us if there is any problem:
   
 - [https://easychair.org/conferences/?conf=verdi2025](https://easychair.org/conferences/?conf=verdi2025){:target="_blank"}
 
 All submissions should be made in PDF and must adhere to the IEEE Computer Society 8.5"x11" two-column camera-ready format (using a 10-point font on 12- point single-spaced leading). Templates are available at [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}.
 
-Reviewing is single-blind. The names and affiliations of authors must appear in the submitted papers. Submissions not respecting format requirements may be rejected without review. -->
+Reviewing is single-blind. The names and affiliations of authors must appear in the submitted papers. Submissions not respecting format requirements may be rejected without review.
 
 <!-- All submissions in categories __A__ and __B__ must be original, unpublished,
 and not submitted concurrently for publication elsewhere...
