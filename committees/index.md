@@ -16,6 +16,7 @@ title: "Committees"
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
+ - [Carolyn Talcott](https://www.sri.com/people/carolyn-talcott/), SRI  International, USA
  - [Ahmet Yazici](https://avesis.ogu.edu.tr/ayazici), Eskisehir Osmangazi University, Turkey
 
 <!-- 
@@ -32,7 +33,6 @@ title: "Committees"
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
  - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
- - [Carolyn Talcott](), SRI  International, USA
  - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 -->
