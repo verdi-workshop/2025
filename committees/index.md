@@ -26,8 +26,8 @@ title: "Committees"
 -->
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Nasser Nowdehi](), Volvo AB, Sweden
-<!-- 
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
+<!-- 
  - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
  - [Antonio Pecchia](https://ultraviolet.ding.unisannio.it/apecchia/), University of Sannio, Italy
  - [Peter Popov](http://www.csr.city.ac.uk/staff/popov/), City University, United Kingdom
