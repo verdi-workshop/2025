@@ -12,6 +12,7 @@ title: "Committees"
  - [Marie Farrell](https://mariefarrell.github.io/), University of Manchester, United Kingdom
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
+ - [Jan Tobias Mühlberg](https://cybersecurity.ulb.ac.be/jan-tobias-muhlberg/),  Université Libre de Bruxelles, Belgium
  - [Nasser Nowdehi](https://www.linkedin.com/in/nasser-nowdehi-07215852), Volvo AB, Sweden
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
