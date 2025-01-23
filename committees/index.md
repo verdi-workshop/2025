@@ -9,6 +9,7 @@ title: "Committees"
  - [Thomas Bauer](), Fraunhofer IESE, Germany
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](https://www.ubi.pt/Pessoa/matos.pedro), University of Beira Interior, Portugal
+ - [Marie Farrell](https://mariefarrell.github.io/), University of Manchester, United Kingdom
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Nasser Nowdehi](), Volvo AB, Sweden
@@ -22,7 +23,6 @@ title: "Committees"
  - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
  - [Stelios Basagiannis](), Collins Aerospace, Ireland
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
- - [Marie Farrell](), University of Manchester, United Kingdom
  - [Barbara Gallina](), Mälardalen University, Sweden
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
  - [Jan Tobias Mühlberg](https://muehlber.github.io/),  Université Libre de Bruxelles, Belgium
