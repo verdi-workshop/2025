@@ -5,17 +5,22 @@ title: "Committees"
 
 # Program Committee (to be finalized)
 
+ - [Magnus Almgren](https://www.cse.chalmers.se/~almgren/), Chalmers University of Technology, Sweden
  - [Cyrille Artho](https://www.kth.se/profile/artho/), KTH Royal Institute of Technology, Sweden
  - [Thomas Bauer](https://www.linkedin.com/in/thomas--bauer), Fraunhofer IESE, Germany
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](https://www.ubi.pt/Pessoa/matos.pedro), University of Beira Interior, Portugal
  - [Marie Farrell](https://mariefarrell.github.io/), University of Manchester, United Kingdom
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
+ - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Jan Tobias Mühlberg](https://cybersecurity.ulb.ac.be/jan-tobias-muhlberg/),  Université Libre de Bruxelles, Belgium
  - [Nasser Nowdehi](https://www.linkedin.com/in/nasser-nowdehi-07215852), Volvo AB, Sweden
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
+ - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
+ - [Peter Popov](http://www.csr.city.ac.uk/staff/popov/), City University, United Kingdom
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
+ - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](https://www.sri.com/people/carolyn-talcott/), SRI  International, USA
  - [Ahmet Yazici](https://avesis.ogu.edu.tr/ayazici), Eskisehir Osmangazi University, Turkey
@@ -26,14 +31,9 @@ title: "Committees"
  - [Stelios Basagiannis](), Collins Aerospace, Ireland
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
  - [Barbara Gallina](), Mälardalen University, Sweden
- - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
- - [Jan Tobias Mühlberg](https://muehlber.github.io/),  Université Libre de Bruxelles, Belgium
- - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
  - [Antonio Pecchia](https://ultraviolet.ding.unisannio.it/apecchia/), University of Sannio, Italy
- - [Peter Popov](http://www.csr.city.ac.uk/staff/popov/), City University, United Kingdom
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
- - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
  - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 -->
