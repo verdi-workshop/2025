@@ -24,6 +24,7 @@ title: "Committees"
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](https://www.sri.com/people/carolyn-talcott/), SRI  International, USA
  - [Ahmet Yazici](https://avesis.ogu.edu.tr/ayazici), Eskisehir Osmangazi University, Turkey
+ - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 
 <!-- 
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
