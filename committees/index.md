@@ -23,6 +23,7 @@ title: "Committees"
  - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](https://www.sri.com/people/carolyn-talcott/), SRI  International, USA
+ - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Ahmet Yazici](https://avesis.ogu.edu.tr/ayazici), Eskisehir Osmangazi University, Turkey
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 
@@ -35,7 +36,6 @@ title: "Committees"
  - [Antonio Pecchia](https://ultraviolet.ding.unisannio.it/apecchia/), University of Sannio, Italy
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
- - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 -->
  
