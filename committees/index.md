@@ -5,6 +5,7 @@ title: "Committees"
 
 # Program Committee (to be finalized)
 
+ - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Magnus Almgren](https://www.cse.chalmers.se/~almgren/), Chalmers University of Technology, Sweden
  - [Cyrille Artho](https://www.kth.se/profile/artho/), KTH Royal Institute of Technology, Sweden
  - [Thomas Bauer](https://www.linkedin.com/in/thomas--bauer), Fraunhofer IESE, Germany
@@ -29,7 +30,6 @@ title: "Committees"
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 
 <!-- 
- - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
  - [Stelios Basagiannis](), Collins Aerospace, Ireland
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
