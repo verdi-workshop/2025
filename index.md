@@ -58,7 +58,7 @@ VERDI is partially supported by the Route 25 project (ref. TRB/2022/00061 - C645
 <small>Disclaimer: The Chips JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.</small>
 
 {:class="thanks"}
-Photo by [Grafi Jeremiah](https://unsplash.com/@_jeremiah85_) on [Unsplash](https://unsplash.com/photos/a-large-body-of-water-surrounded-by-buildings-I1MBKpoC61k)
+<small>Photo by [Grafi Jeremiah](https://unsplash.com/@_jeremiah85_) on [Unsplash](https://unsplash.com/photos/a-large-body-of-water-surrounded-by-buildings-I1MBKpoC61k)</small>
 
 
 <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
