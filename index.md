@@ -42,7 +42,8 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
 [![logo](assets/img/logo-vortex.png "logo")](https://www.vortex-colab.com/){:target="blank"}
 [![logo](assets/img/logo-route25.png "logo")](https://route-25.com){:target="blank"}
-[![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.pt/){:target="blank"}
+[![logo](assets/img/logo-emsig.png "logo")](http://emsig.net/){:target="blank"}
+[![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](https://www.fct.pt/){:target="blank"}
 <!-- [![logo](assets/img/logo-MICIN.jpg "logoSmall")](http://www.fct.mctes.pt/){:target="blank"} -->
 
 {:class="thanks"}
