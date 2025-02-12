@@ -60,6 +60,10 @@ title: "Committees"
  - [José Proença](https://jose.proenca.org/), University of Porto, Porto, Portugal
  - [Behrooz Sangchoolie](https://www.ri.se/en/person/behrooz-sangchoolie), RISE Research Institutes of Sweden, Borås, Sweden
 
+# Contact
+
+If you have any question, please contact us via email at [verdi-2025@easychair.org](mailto:verdi-2025@easychair.org).
+
 
 Edit the content of this page [here](https://github.com/verdi-workshop/2025/blob/main/committees/index.md).
 {: .editNote}
