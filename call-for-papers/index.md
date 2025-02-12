@@ -80,7 +80,7 @@ Reviewing is single-blind. The names and affiliations of authors must appear in 
 
 # Contact
 
-If you have any question, please contact us via email at verdi-2025@easychair.org.
+If you have any question, please contact us via email at [verdi-2025@easychair.org](mailto:verdi-2025@easychair.org).
 
 
 <!-- All submissions in categories __A__ and __B__ must be original, unpublished,
