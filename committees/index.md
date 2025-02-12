@@ -8,6 +8,7 @@ title: "Committees"
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Magnus Almgren](https://www.cse.chalmers.se/~almgren/), Chalmers University of Technology, Sweden
  - [Cyrille Artho](https://www.kth.se/profile/artho/), KTH Royal Institute of Technology, Sweden
+ - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
  - [Thomas Bauer](https://www.linkedin.com/in/thomas--bauer), Fraunhofer IESE, Germany
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
@@ -32,7 +33,6 @@ title: "Committees"
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 
 <!-- 
- - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
  - [Stelios Basagiannis](), Collins Aerospace, Ireland
  - [Barbara Gallina](), Mälardalen University, Sweden
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
