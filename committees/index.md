@@ -9,6 +9,7 @@ title: "Committees"
  - [Magnus Almgren](https://www.cse.chalmers.se/~almgren/), Chalmers University of Technology, Sweden
  - [Cyrille Artho](https://www.kth.se/profile/artho/), KTH Royal Institute of Technology, Sweden
  - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
+ - [Stelios Basagiannis](https://ie.linkedin.com/in/stylianos-basagiannis-35080550), Collins Aerospace, Ireland
  - [Thomas Bauer](https://www.linkedin.com/in/thomas--bauer), Fraunhofer IESE, Germany
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
