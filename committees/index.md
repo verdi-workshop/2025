@@ -26,6 +26,7 @@ title: "Committees"
  - [Peter Popov](http://www.csr.city.ac.uk/staff/popov/), City University, United Kingdom
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
+ - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
  - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](https://www.sri.com/people/carolyn-talcott/), SRI  International, USA
@@ -34,9 +35,7 @@ title: "Committees"
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 
 <!-- 
- - [Stelios Basagiannis](), Collins Aerospace, Ireland
  - [Barbara Gallina](), Mälardalen University, Sweden
- - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 -->
  
