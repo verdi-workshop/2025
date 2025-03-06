@@ -3,7 +3,7 @@ layout: post
 title: "Committees"
 ---
 
-# Program Committee (to be finalized)
+# Program Committee
 
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Magnus Almgren](https://www.cse.chalmers.se/~almgren/), Chalmers University of Technology, Sweden
