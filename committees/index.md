@@ -32,7 +32,6 @@ title: "Committees"
  - [Carolyn Talcott](https://www.sri.com/people/carolyn-talcott/), SRI  International, USA
  - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Ahmet Yazici](https://avesis.ogu.edu.tr/ayazici), Eskisehir Osmangazi University, Turkey
- - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
 
 <!-- 
  - [Barbara Gallina](), Mälardalen University, Sweden
