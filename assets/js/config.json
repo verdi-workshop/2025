@@ -1,7 +1,7 @@
 {
     "map": {
         "map_provider": "OpenStreetMap.Mapnik",
-        "home_coord": [-27.46835, 153.02303],
+        "home_coord": [40.830145,14.246909],
         "default_zoom": 18
     },
 

@@ -1,15 +1,17 @@
 ---
-name: 'Welcome to VERDI 2024'
+name: 'Welcome to VERDI 2025'
 speakers:
   - Behrooz Sangchoolie 
   - David Pereira
   - José Proença
 categories:
   - Organisation
-links:
-  - name: Welcome slides
-    relative_url: /VERDI_Welcome.pdf
+room:
+  - VERDI
+# links:
+#   - name: Welcome slides
+#     relative_url: /VERDI_Welcome.pdf
 ---
 
 
-Welcome session of VERDI 2024, presenting insights over the workshop and the schedule.
+Welcome session of VERDI 2025, presenting insights over the workshop and the schedule.

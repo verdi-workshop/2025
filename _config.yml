@@ -72,12 +72,12 @@ conference:
         relative_url: /call-for-papers/
       # - name: Accepted papers
       #   relative_url: /talks/
-      # - name: Program
-      #   relative_url: /program/
-      # - name: Speakers
-      #   relative_url: /speakers/
-      # - name: Location
-      #   relative_url: /location/
+      - name: Program
+        relative_url: /program/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Location
+        relative_url: /location/
       - name: Committees
         relative_url: /committees/
 
@@ -188,6 +188,8 @@ conference:
   program:
     # URL of program page
     url: '/program'
+
+    title: 'Tentative Program'
 
     # Time steps in program table
     time_steps: 15 # in minutes
