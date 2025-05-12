@@ -3,7 +3,8 @@ name: 'Invited talk (tbd)'
 # speakers:
 #   - ?
 categories:
-  - Invited Talks
+  - 'Invited Talks'
+  - 'Chair: Behrooz Sangchoolie'
 room:
   - VERDI
 # links:

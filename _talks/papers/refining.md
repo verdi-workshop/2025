@@ -6,7 +6,8 @@ speakers:
   - Rosemary Monahan
 room: 'DSN2025'
 categories:
-  - Regular papers
+  - Autonomous Vehicles
+  - 'Chair: David Pereira'
 ---
 
 Safety and reliability requirements are fundamental for any

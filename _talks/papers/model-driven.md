@@ -5,7 +5,8 @@ speakers:
   - András Pataricza
 room: 'DSN2025'
 categories:
-  - Regular papers
+  - 'Chair: Raul Barbosa'
+  - Logical Reasoning
 ---
 
 Analyzing empirical dependability data now exceeds domain

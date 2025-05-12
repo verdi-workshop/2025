@@ -5,7 +5,8 @@ speakers:
   - David Pereira
   - José Proença
 categories:
-  - Organisation
+  # - Organisation
+  - Welcome
 room:
   - VERDI
 # links:

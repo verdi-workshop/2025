@@ -6,7 +6,9 @@ speakers:
   - Vasco Santos
 room: 'DSN2025'
 categories:
- - Short papers
+  - Autonomous Vehicles
+  - 'Chair: David Pereira'
+  - Short paper
 ---
 
 Industry and academia are rapidly moving towards the

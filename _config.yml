@@ -145,8 +145,15 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Invited Talks
+      - name: 'Invited Talks'
         color: danger
+      - name: 'Autonomous Vehicles'
+        color: warning
+      - name: 'Logical Reasoning'
+        color: success
+      - name: 'AI for V&V'
+        color: info
+      #####
       # - name: 'Session 1'
       #   color: success
       # - name: 'Session 2'
@@ -155,16 +162,20 @@ conference:
       #   color: dark
       # - name: 'Session 4'
       #   color: info
-      - name: Regular papers
-        color: success
-      - name: Short papers
-        color: warning
+      #####
+      # - name: Regular papers
+      #   color: success
+      # - name: Short papers
+      #   color: warning
       # - name: Modelling & Verification
       #   color: success
+      - name: 'Welcome'
+        color: dark
       - name: Organisation
         color: light
       # color: light
       # Colors: info, warning, danger, success
+
 
     # Hide icons on talk overview page
     hide_icons: false

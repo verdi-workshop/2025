@@ -6,7 +6,8 @@ speakers:
   - Peter Popov
 room: 'DSN2025'
 categories:
-  - Regular papers
+  - Autonomous Vehicles
+  - 'Chair: David Pereira'
 ---
 
 Unmanned aerial vehicles (UAVs) are increasingly being used

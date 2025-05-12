@@ -12,7 +12,8 @@ speakers:
   - Srinjoy Ghose
 room: 'DSN2025'
 categories:
-  - Regular papers
+  - AI for V&V
+  - 'Chair: Peter Popov'
 ---
 
 Cyber-Physical Systems (CPS) increasingly depend on

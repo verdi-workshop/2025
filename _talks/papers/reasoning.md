@@ -8,7 +8,9 @@ speakers:
   - István Majzik
 room: 'DSN2025'
 categories:
-  - Short papers
+  - Logical Reasoning
+  - 'Chair: Raul Barbosa'
+  - Short paper
 ---
 
 The model checking of multi-threaded programs often

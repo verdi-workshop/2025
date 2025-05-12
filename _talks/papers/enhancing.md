@@ -5,7 +5,8 @@ speakers:
   - Arthur Amorim
 room: 'DSN2025'
 categories:
-  - Regular papers
+  - Logical Reasoning
+  - 'Chair: Raul Barbosa'
 ---
 
 Cyber-physical systems (CPS) rely on software that contains

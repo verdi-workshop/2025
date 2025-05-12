@@ -5,7 +5,9 @@ speakers:
   - András Földvári
 room: 'DSN2025'
 categories:
-  - Regular papers
+  - AI for V&V
+  - 'Chair: Peter Popov'
+
 ---
 
 The rapid advancement of large language models (LLMs)

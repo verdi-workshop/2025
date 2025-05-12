@@ -6,7 +6,8 @@ speakers:
   - Raul Barbosa
 room: 'DSN2025'
 categories:
-  - Regular papers
+  - AI for V&V
+  - 'Chair: Peter Popov'
 ---
 
 As machine learning continues to integrate into critical
