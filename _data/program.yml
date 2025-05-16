@@ -11,7 +11,7 @@ days:
           - name: 'Welcome to VERDI 2025'
             time_start: '09:15'
             time_end: '09:30'
-          - name: 'Invited talk (tbd)'
+          - name: 'Graphical Security Models and Their Applications'
             time_start: '09:30'
             time_end: '10:30'
           - name: 'Coffee break'

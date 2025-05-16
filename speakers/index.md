@@ -3,42 +3,39 @@ layout: speaker-overview  # uncomment to add list of all speakers in the end.
 title: ""
 ---
 
-<!-- 
-# Invited Speakers
+# Invited Speaker
 
 <div class="container">
 <div class="row justify-content-start p-3">
     <div class="col-sm-2" style="text-align: center; margin-bottom: 1.3em;">
-        <a href="/2024/speakers/juancarlosruiz/">
+        <a href="/2025/speakers/dankim/">
             <div class="speakers-hover">
-            <img class="skeaker-img" src="/2024/assets/img/people/juancarlosruiz.jpg" alt="Juan Carlos Ruiz" title="Juan Carlos Ruiz" width="150"/>
+            <img class="skeaker-img" src="/2025/assets/img/people/dankim.jpg" alt="Dan Dongseong Kim" title="Dan Dongseong Kim" width="150"/>
             </div>
         </a>
     </div>
     <div class="col-sm-10">
 
-    <h2 style="margin-top: 0px;"> Juan Carlos Ruiz</h2>
+    <h2 style="margin-top: 0px;"> Dan Dongseong Kim</h2>
 
-    <p> <a href="http://www.upv.es/ficha-personal/juaruiga" target="_blank">Juan Carlos Ruiz</a> is a permanent professor at UPV (Universitat Politècnica de València, Spain). He is member of the Fault-Tolerant Systems Research Group (GSTF) of ITACA, a UPV research institute. He is also member of the Department of Computer Engineering (DISCA) of the UPV. He teaches computer engineering and mobile cybersecurity in the UPV Bachelor degree on Computer Science. He is the Academic Director of the UPV Master Program on Computer Engineering and Networking, where he also provides lectures on dependable computing. His research is mainly focused, although not limited to, the verification of safety-critical embedded systems through fault injection. He is the currently the leader of the Spanish research project DEFADAS, whose aim is to provide means to assess and improve the robustness of FPGA-based convolutional neural networks. He regularly contributes as Program Committee, Organization Committee or Conference Chair to the most important conferences on dependable and secure computing systems, such as the IFIP/IEEE Dependable Systems and Networks Conference. He is author of more than 80 peer-refereed publications. Since 2024, he chairs the steering committee of the European Dependable Computing Conference.</p>
+    <p> Dr. <a href="https://sites.google.com/view/dsteam/dan" target="_blank">Dan Dongseong Kim</a> is an Associate Professor and Deputy Director of UQ Cyber at The University of Queensland (UQ), Brisbane, Australia. Prior to UQ, he led the Cybersecurity Lab. at The University of Canterbury (UC), Christchurch, New Zealand from August 2011 to Jan 2019. He was a Senior Lecturer in Cybersecurity in the Department of Computer Science and Software Engineering at UC. He was a visiting scholar at The University of Maryland, College Park, Maryland in the US in 2007. From June 2008 to July 2011, he was a postdoc at Duke University, Durham, North Carolina in the US. His research interests lie in Cyber Security and Dependability for various systems and networks. He has a particular focus on developing robust security mechanisms for critical infrastructure, IoT devices, and networked systems. His work aims to enhance the resilience and reliability of these systems against cyber threats, ensuring their safe and secure operation. He has an impressive publication record, with over 185 publications and more than 6500 citations. His Google Scholar profile boasts an h-index of 41 and an i10-index of 117.</p>
 
-    <h3> On improving the robustness of convolutional neural networks using in-parameter zero-space error correction codes </h3>
+    <h3> Graphical Security Models and Their Applications </h3>
 
     <p> <b>Abstract:</b>
-    Convolutional neural networks (CNNs) are currently of great interest in critical domains demanding image classification to support advanced safety-oriented features, such as those deployed in autonomous driving or medical image analysis. Providing high degrees of accuracy in object recognition comes with a high computational cost that requires the support of specific hardware accelerators.</p>
-
-    <p> These accelerators are rarely designed to protect CNN parameters during the inference process, which may lead to object misclassification provoking unsafe situations. On the one hand, the multiplicity of bits that can be potentially flipped by single event upsets increases with larger technology scales. On the other hand, as CNNs interconnect to other systems, they become further exposed to malicious faults (attacks) that may crush their inference process by simply flipping a small number of vulnerable parameter bits.</p>
-    
-    <p> In this talk, we will see how to exploit the assessment information provided by fault injection experiments to increase the robustness of a CNN against the occurrence of multiple bitflips by using error correction codes (ECCs). The approach will be exemplified using a floating point-based CNN that is prototyped on a programmable logic device. Then, we will study how the approach can be deployed without retraining the considered CNN, using well-known and proven ECCs and at an in-memory and zero-space cost.
+    Graphical security models—such as attack graphs, attack trees, and Hierarchical Attack Representation Models (HARMs)—are widely used for threat, attack, and security modeling and analysis. This talk introduces their core concepts, including key terminology, security metrics, and the model life cycle. It then highlights recent advances in graphical modeling techniques and their applications, with a focus on domains such as the Internet of Things (IoT) and the security and safety analysis of autonomous vehicles.
     </p>
 
+<!-- 
     <ul>
         <li> <a target="_blank" href="../VERDI_Keynote.pdf">Slides of the Keynote</a></li>
     </ul>
-    
+ -->    
+
     </div>
 </div>
 </div>
 
- -->
+
 
 # All Authors and Speakers
