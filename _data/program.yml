@@ -9,7 +9,7 @@ days:
       - name: VERDI
         talks:
           - name: 'Welcome to VERDI 2025'
-            time_start: '09:15'
+            time_start: '09:00'
             time_end: '09:30'
           - name: 'Graphical Security Models and Their Applications'
             time_start: '09:30'
