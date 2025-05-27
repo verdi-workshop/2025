@@ -3,6 +3,11 @@ layout: home
 title: VERDI 2025
 ---
 
+## Attending VERDI
+
+Registration is now open through DSN's main website:
+ - https://dsn2025.github.io/registration.html
+
 
 ## Important dates
 
