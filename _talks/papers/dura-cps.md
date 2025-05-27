@@ -10,6 +10,8 @@ speakers:
   - Sanika Hirave
   - Zaryab Kanjiani
   - Srinjoy Ghose
+  - Samvit Bhattacharya
+
 room: 'DSN2025'
 categories:
   - AI for V&V
