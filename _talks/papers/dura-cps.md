@@ -6,11 +6,11 @@ speakers:
   - Himani Musku
   - Idhant Gode
   - Aditya Arora
+  - Samvit Bhattacharya
   - Abubakr Nazriev
   - Sanika Hirave
   - Zaryab Kanjiani
   - Srinjoy Ghose
-  - Samvit Bhattacharya
 
 room: 'DSN2025'
 categories:

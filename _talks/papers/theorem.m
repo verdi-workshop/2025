@@ -1,5 +1,5 @@
 ---
-name: 'Theorem Proving for Rigorous Verification of Decision Tree Ensembles against Specifications'
+name: 'Program Verification for Rigorous Analysis of Decision Tree Ensembles against Specifications'
 speakers:
   - Iat Tou Leong
   - Aleksandar Avdalovic
