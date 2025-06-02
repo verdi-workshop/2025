@@ -200,7 +200,7 @@ conference:
     # URL of program page
     url: '/program'
 
-    title: 'Tentative Program'
+    title: 'Program'
 
     # Time steps in program table
     time_steps: 15 # in minutes

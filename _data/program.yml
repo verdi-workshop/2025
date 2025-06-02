@@ -44,7 +44,7 @@ days:
           - name: 'Dependability Assurance with Symbolic Reasoning in LLM-enabled Systems'
             time_start: '16:00'
             time_end: '16:30'
-          - name: 'Theorem Proving for Rigorous Verification of Decision Tree Ensembles against Specifications'
+          - name: 'Program Verification for Rigorous Analysis of Decision Tree Ensembles against Specifications'
             time_start: '16:30'
             time_end: '17:00'
           - name: 'DURA‑CPS: A Multi‑Role Orchestrator for Dependability Assurance in LLM‑Enabled Cyber‑Physical Systems'
